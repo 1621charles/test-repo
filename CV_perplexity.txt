@@ -1,0 +1,81 @@
+Christopher Guo, Ph.D.
+San Diego, CA 92054
+E: chrislguo@gmail.com
+T: 805.617.0844
+
+======================================================================
+PROFESSIONAL SUMMARY
+======================================================================
+AI & Economics • Product • Research
+
+- Expertise in consumer behavior and data science at Treyarch (an Activision/Microsoft company)
+- Former behavioral and environmental economics policy analyst
+
+======================================================================
+EMPLOYMENT
+======================================================================
+
+Treyarch Studios (a Microsoft company)
+Sr. Director, Game Economy Monetization
+Oct 2018 – March 2025
+
+- Shipped #1 bestselling U.S. game of 2020 and #2 in 2018
+- Improved game economy revenue from $255M (2018) to $1.2B (2021)
+- Transitioned from "loot box" model to player-friendly monetization systems
+- Integrated premium games with free-to-play models for recurring revenue
+- Developed personalized algorithm features contributing to 45% of revenue
+- Launched 12 "Seasons" of DLC content
+
+Activision
+Sr. Director, Central Technology - Experimentation
+Jul 2016 – Oct 2018
+
+- Led internal data science product group for in-game A/B testing
+- Achieved a 150% increase in franchise ARPU Y/Y through monetization testing
+
+Pandora Media
+Advisor
+Apr 2016 – Jul 2016
+
+- Integrated Ticketfly with Pandora's concert recommendation platform post-acquisition
+
+RAND Corporation
+Associate Economist; Professor, Entrepreneurship Public Policy
+Sep 2012 – Jun 2016
+
+- Managed multidisciplinary policy teams for U.S. government consulting projects
+- Raised $1.2M in research contracts; led market opportunity identification projects
+
+Bren School for Environmental Science and Management - UC Santa Barbara
+Research Fellow, Behavioral and Computational Economics
+Sep 2006 – Jun 2012
+
+- Secured $200K in research grants; published in top journals
+
+Private SAT Tutor and College Counselor, San Diego, CA
+Co-founder and Owner
+Oct 2004 – Aug 2006
+
+Bank of America Merrill Lynch
+Investment Banking Analyst
+Jun 2003 – Sep 2004
+
+======================================================================
+EDUCATION
+======================================================================
+
+University of California Santa Barbara 
+Ph.D. Economics, 2006 - 2012
+
+Harvard University 
+B.A. with Honors in Economics, 1999 - 2003
+
+======================================================================
+ADDITIONAL INFO
+======================================================================
+
+Technical Skills: Data Visualization, Econometrics, Machine Learning, Game Theoretic Modeling.
+
+Computer Skills: R, MATLAB, Python, SQL, C++, Java.
+
+Interests: Surfing and surfboard construction, graphic design.
