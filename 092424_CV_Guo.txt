@@ -4,6 +4,7 @@ E: chrislguo@gmail.com	T: 805.617.0844
 
 PROFESSIONAL SUMMARY
 ======================================================================
+ai & economics • product • research
 Consumer behavior and data science at Treyarch (an Activision/Microsoft company) 
 Ex-behavioral and environmental economics policy wonk
 
@@ -11,12 +12,18 @@ Ex-behavioral and environmental economics policy wonk
 EMPLOYMENT
 ======================================================================
 Treyarch Studios (a Microsoft company) 
-Sr. Director, Game Economist							
+Sr. Director, Game Economy Monetization
 Oct 2018 – March 2025
-Transitioned from centralized consulting to building the data function at Treyarch, a development studio owned by Activision. Led cross-functional Product Oriented Delivery teams across product management, design, engineering, and data science. Reported to Treyarch Co-Studio Head.
 
-    • Shipped #1 bestselling U.S. game of 2020 and #2 bestselling U.S. game of 2018 – guided strategic decisions for gameplay balance, customer engagement, social matchmaking, and monetization of virtual goods in the digital marketplace (game economy).
-    • Radically improved game economy revenue from $255M (2018) to $1.2B (2021) through a combination of structural features and local optimizations – examples below.
+Treyarch is an award-winning game development company best known 
+for Call of Duty: Black Ops and Zombies, acquired by Microsoft in 2023.
+
+•   Shipped #1 bestselling U.S. game of 2020 and #2 bestselling U.S. game of 2018
+    guided strategic decisions for gameplay balance, customer engagement, 
+    social matchmaking, and monetization of virtual goods in the digital 
+    marketplace (game economy).
+•   Radically improved game economy revenue from $255M (2018) to $1.2B (2021) 
+    through a combination of structural features and local optimizations – examples below.
     • Drove a strategic transition from a controversial “loot box” business model to new player-friendly, deterministic monetization systems (e.g. battle pass and item store).
     • Spearheaded integration of our premium game with a free-to-play game in the Call of Duty metaverse, resulting in SAAS-like recurring revenue dynamics and a sharp 30% Y/Y increase in unit sell-throughs.  
     • Introduced personalized algorithm features such as store recommender (MyDeals), automated merchandise scheduling, dynamic pricing, contextual purchase, and gifting. Learnings led to creation of family of products which now contribute 45% of revenue.
