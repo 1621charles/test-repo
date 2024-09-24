@@ -2,11 +2,17 @@ Christopher Guo, Ph.D.
 San Diego, CA 92054
 E: chrislguo@gmail.com	T: 805.617.0844
 
+PROFESSIONAL SUMMARY
+======================================================================
+Consumer behavior and data science at Treyarch (an Activision/Microsoft company) 
+Ex-behavioral and environmental economics policy wonk
+
+
 EMPLOYMENT
-==========
-Microsoft / Activision Blizzard 
+======================================================================
+Treyarch Studios (a Microsoft company) 
 Sr. Director, Game Economist							
-Apr 2017 – March 2025
+Oct 2018 – March 2025
 Transitioned from centralized consulting to building the data function at Treyarch, a development studio owned by Activision. Led cross-functional Product Oriented Delivery teams across product management, design, engineering, and data science. Reported to Treyarch Co-Studio Head.
 
 •	Shipped #1 bestselling U.S. game of 2020 and #2 bestselling U.S. game of 2018 – guided strategic decisions for gameplay balance, customer engagement, social matchmaking, and monetization of virtual goods in the digital marketplace (game economy).
@@ -16,6 +22,7 @@ Transitioned from centralized consulting to building the data function at Treyar
 •	Introduced personalized algorithm features such as store recommender (MyDeals), automated merchandise scheduling, dynamic pricing, contextual purchase, and gifting. Learnings led to creation of family of products which now contribute 45% of revenue.
 •	Launched 12 “Seasons” of DLC content, blending in-game engagement events, top tier marketing, and purchasable content—all wrapped in the narrative of our games.  
 
+Activision
 Sr. Director, Central Technology - Experimentation					
 Jul 2016 – Oct 2018
 Recruited to lead an internal data science product group.  Pioneered in-game A/B testing (>1M players) by developing infrastructure and analysis tools; supervised the design and ideation for the first experiments at the company. Reported to the CTO.
@@ -54,7 +61,7 @@ Jun 2003 – Sep 2004
 
 
 EDUCATION
-=========
+======================================================================
 University of California Santa Barbara, Ph.D. Economics, 2006 - 2012
 •	Dissertation on Bayesian statistics, decision science, and risk management in natural resource markets.
 •	Excellent teaching performance evaluations for Principles of Economics-Micro, Macro.
@@ -66,7 +73,7 @@ Harvard University, B.A. with Honors in Economic, 1999 - 2003
 
 
 ADDITIONAL INFO
-===============
+======================================================================
 Technical Skills: Data Visualization, Casual Inference and Econometrics, Regressions, Machine Learning, Simulation and Modeling Risk, Dynamic Optimization, Game Theoretic Modeling.
 
 Computer Skills: R, MATLAB, Python, SQL, C++, Java, C, Lisp.   
