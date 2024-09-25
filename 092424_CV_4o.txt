@@ -1,0 +1,86 @@
+CHRISTOPHER GUO, Ph.D.
+San Diego, CA 92054  
+E: chrislguo@gmail.com | T: 805.617.0844
+
+======================================================================
+PROFESSIONAL SUMMARY
+======================================================================
+Experienced technology executive with deep expertise in AI, economics, and product development. Proven track record of driving revenue growth, strategic innovation, and data-driven monetization systems at scale. As Senior Director at Treyarch (Microsoft), led multi-billion-dollar product lines, pioneering the transition from traditional game monetization models to more consumer-friendly and profitable free-to-play systems. Extensive leadership in managing cross-functional teams, optimizing business strategies, and aligning product development with customer engagement. Former RAND economist with a strong foundation in data science, machine learning, and policy advising, adept at translating complex analytics into actionable business strategies.
+
+======================================================================
+EMPLOYMENT
+======================================================================
+TREYARCH STUDIOS (MICROSOFT COMPANY)  
+Senior Director, Game Economy Monetization  
+October 2018 – March 2025  
+
+Treyarch is an award-winning game development company best known for Call of Duty: Black Ops and Zombies. Acquired by Microsoft in 2023.
+
+- Introduced new consumable functional system "GobbleGums" within Zombies, driving $30M in revenue. Managed end-to-end production: gameplay requirements, monetization system design, art, storefront, and live operations.
+- Shipped #1 bestselling U.S. game of 2020 and #2 of 2018. Increased revenue from $255M to $1.2B (2018–2021) through game economy optimizations.
+- Influenced executive leadership to transition from a controversial loot box business model to a player-friendly, "deterministic" monetization system, which became a key term adopted by the CEO in presentations to Wall Street investors.
+- Spearheaded integration of premium and free-to-play models, resulting in a 30% year-over-year increase in unit sell-throughs.
+- Introduced personalized features such as store recommender, dynamic pricing, and gifting, contributing to 45% of revenue.
+- Launched 12 "Seasons" of DLC content, blending marketing, in-game events, and purchasable content.
+
+ACTIVISION  
+Senior Director, Central Technology – Experimentation  
+July 2016 – October 2018  
+
+Led internal data science group, reporting to CTO.
+
+- Pioneered in-game A/B testing infrastructure for over 1 million players, achieving a 150% increase in ARPU (Average Revenue Per User) year-over-year.
+- Shifted team of data scientists from research to business metric growth.
+
+PANDORA MEDIA  
+Advisor  
+April 2016 – July 2016  
+
+Advised post-acquisition integration between Ticketfly and Pandora's recommendation platform.
+
+RAND CORPORATION  
+Associate Economist; Professor, Entrepreneurship Public Policy  
+September 2012 – June 2016  
+
+Led multidisciplinary teams on consulting projects for U.S. government and international organizations.
+
+- Raised $1.2M in research contracts and led teams in policy research.
+- Developed market analysis for electric grid big data and provided forecasts to government bodies.
+
+UNIVERSITY OF CALIFORNIA, SANTA BARBARA  
+National Science Foundation Research Fellow, Behavioral and Computational Economics  
+September 2006 – June 2012  
+
+Raised $200K in research grants; awarded two NSF fellowships.
+
+BANK OF AMERICA MERRILL LYNCH  
+Investment Banking Analyst  
+June 2003 – September 2004
+
+======================================================================
+EDUCATION
+======================================================================
+
+UNIVERSITY OF CALIFORNIA, SANTA BARBARA  
+Ph.D. in Economics (2006 – 2012)  
+Dissertation: Bayesian statistics, decision science, and risk management.
+
+HARVARD UNIVERSITY  
+B.A. with Honors in Economics (1999 – 2003)
+
+======================================================================
+TECHNICAL SKILLS
+======================================================================
+
+- Data Science: Econometrics, Machine Learning, Simulation, Game Theory, Dynamic Optimization  
+- Programming Languages: R, Python, SQL, MATLAB, C++, Java, C, Lisp
+
+======================================================================
+PEER-REVIEWED PUBLICATIONS
+====================================================================== 
+(list trimmed for brevity)  
+- "Merit Pay and Wage Compression with Productivity Differences and Uncertainty," Journal of Economic Behavior and Organization, 2015  
+- "Tankering Fuel on US Air Force Transport Aircraft," RAND Corporation, 2015  
+- "The Adoption of New Smart-Grid Technologies: Incentives, Outcomes, and Opportunities," RAND Corporation, 2015  
+- "The Value of Adaptation: Climate Change and Timberland Management," Journal of Environmental Economics and Management, 2013  
+
