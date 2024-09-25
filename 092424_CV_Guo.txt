@@ -6,7 +6,7 @@ PROFESSIONAL SUMMARY
 ======================================================================
 ai & economics • product • research
 Consumer behavior and data science at Treyarch (an Activision/Microsoft company) 
-Ex-behavioral and environmental economics policy wonk
+Ex-behavioral and computational economics policy wonk
 
 
 EMPLOYMENT
@@ -17,7 +17,9 @@ Oct 2018 – March 2025
 
 Treyarch is an award-winning game development company best known 
 for Call of Duty: Black Ops and Zombies, acquired by Microsoft in 2023.
-
+•   Introduced a new consumable functional system within Zombies, called GobbleGums, which earned $30M in revenue.
+    Guided end-to-end production of the system, including gameplay requirements, 
+    monetization system design, art and storefront, and live operations.
 •   Shipped #1 bestselling U.S. game of 2020 and #2 bestselling U.S. game of 2018
     guided strategic decisions for gameplay balance, customer engagement, 
     social matchmaking, and monetization of virtual goods in the digital 
@@ -37,9 +39,11 @@ for Call of Duty: Black Ops and Zombies, acquired by Microsoft in 2023.
 Activision
 Sr. Director, Central Technology - Experimentation					
 Jul 2016 – Oct 2018
+
 Recruited to lead an internal data science product group.  Pioneered in-game A/B testing (>1M players) by developing 
 infrastructure and analysis tools; supervised the design and ideation for the first experiments at the company. 
 Reported to the CTO.
+
 •   Shifted team goals (10 data scientists, engineers, and analysts) from research to business metric growth.
 •   Testing of monetization features, including store UI, price, and promotion strategy, 
     delivered a 150% increase in franchise ARPU Y/Y. 
@@ -54,6 +58,8 @@ C-levels and key stakeholders.
 RAND Corporation
 Associate Economist; Professor, Entrepreneurship Public Policy			
 Sep 2012 – Jun 2016
+
+One of America's OG think tanks, RAND is nonprofit, nonpartisan.
 Staffed and managed multidisciplinary policy teams undertaking consulting projects for U.S. government agencies and 
 international organizations.  Extensive client interaction, including roadmaps, interim briefings, and report publication. 
 •   Raised $1.2M in internal and external research contracts; responsible for recruitment, budget allocation. 
@@ -61,12 +67,16 @@ international organizations.  Extensive client interaction, including roadmaps, 
     risks from electric grid big data for the 2015 Dept. of Energy Quadrennial Review.
 •   Applied survival analysis and ML regression models to forecast retention of high-value personnel within the 
     Dept. of Defense for the Senate Armed Services Committee.
-
+•	Created a new class of work product; deployed interactive web applications to complement traditional print reports (R-Shiny).
+•	Structured investment incentives for a government venture capital initiative.
+•	Identified business opportunities from electric grid big data (Kauffman Foundation support).
+•	Built relationships with aerospace companies to compare best practices for fuel efficiency.
 
 
 Bren School for Environmental Science and Management - University of California, Santa Barbara
 Research Fellow, Behavioral and Computational Economics				
 Sep 2006 – Jun 2012
+
 •   Raised $200K in research grants and awarded two separate National Science Foundation fellowships. 
 •   Built agent-based simulations of adaptation to climate change; designed human subject experiments 
     investigating perceptions of fairness; published in top behavioral econ and environmental econ journals. 
@@ -91,7 +101,8 @@ University of California Santa Barbara, Ph.D. Economics, 2006 - 2012
 
 Harvard University, B.A. with Honors in Economic, 1999 - 2003
 •   Coursework in Computer Science 50 & 51. MBA Financial Accounting (MIT Sloan School of Management).
-•   Perfect Scores on SATs.
+•   Men's Lightweight Crew Team.  CollegeHumor.com campus rep.
+•   Perfect Scores on SAT, PSAT & 3 SAT IIs.
 
 
 ADDITIONAL INFO
@@ -102,3 +113,206 @@ Simulation and Modeling Risk, Dynamic Optimization, Game Theoretic Modeling.
 Computer Skills: R, MATLAB, Python, SQL, C++, Java, C, Lisp.   
 
 Interests and Hobbies: surfing and surfboard construction, graphic design
+
+
+Publications
+======================================================================
+@article{curtright2016policy,
+  title={Policy Options for Better Service Outcomes from the Future Electric Grid},
+  author={Curtright, Aimee E and Guo, Christopher and Narayanan, Anu and Du Bois, Jacqueline and Loa, Kathleen},
+  year={2016}
+}
+
+@article{guo2011bayesian,
+  title={A Bayesian approach to energy R\&D portfolio analysis},
+  author={Guo, LA},
+  journal={University of California Santa Barbara},
+  year={2011}
+}
+
+@article{guo2014retention,
+  title={Retention and promotion of high-quality civil service workers in the Department of Defense acquisition workforce},
+  author={Guo, Christopher and Hall-Partyka, Philip and Gates, Susan M},
+  year={2014},
+  publisher={Rand Corporation}
+}
+
+@article{ramchand2014developing,
+  title={Developing a research strategy for suicide prevention in the Department of Defense: Status of current research, prioritizing areas of need, and recommendations for moving forward},
+  author={Ramchand, Rajeev and Eberhart, Nicole K and Guo, Christopher and Pedersen, Eric R and Savitsky, Terrance Dean and Tanielian, Terri and Voorhies, Phoenix},
+  journal={Rand Health Quarterly},
+  volume={4},
+  number={3},
+  year={2014},
+  publisher={The RAND Corporation}
+}
+
+@article{hubert2015tankering,
+  title={Tankering Fuel on US Air Force Transport Aircraft},
+  author={Hubert, Tanguy and Guo, Christopher and Mouton, Christopher A and Powers, James D},
+  year={2015}
+}
+
+@book{guo2015adoption,
+  title={The adoption of new smart-grid technologies: incentives, outcomes, and opportunities},
+  author={Guo, Christopher and Bond, Craig A and Narayanan, Anu},
+  year={2015},
+  publisher={Rand Corporation}
+}
+
+@misc{mouton2015fuel,
+  title={Fuel Reduction for the Mobility Air Forces: Executive Summary},
+  author={Mouton, Christopher A and Powers, James D and Romano, Daniel M and Guo, Christopher and Bednarz, Sean and O'Connell, Caolionn},
+  year={2015},
+  publisher={Rand Corporation}
+}
+
+@article{gross2012merit,
+  title={Merit, Inequality, and Effort: Asymmetries and Uncertainty in an Efficiency Wage Environment},
+  author={Gross, Till and Guo, Christopher},
+  year={2012}
+}
+
+@inproceedings{lewis2015panel,
+  title={Panel 14. Factors Influencing Achievement of Affordable Defense Systems in a Constrained Budget Environment},
+  author={Lewis, Jennifer Lamping and Guo, Christopher},
+  booktitle={Twelfth Annual Acquisition Research Symposium},
+  volume={2015},
+  year={2015}
+}
+
+@misc{mouton2015fuel,
+  title={Fuel Reduction for the Mobility Air Forces},
+  author={Mouton, Christopher A and Powers, James D and Romano, Daniel M and Guo, Christopher and Bednarz, Sean and O'Connell, Caolionn},
+  year={2015},
+  publisher={RAND Corporation}
+}
+
+@article{guo2016ten,
+  title={Ten frequently asked questions about veterans’ transitions},
+  author={Guo, Christopher and Pollak, Julia and Bauman, Melissa},
+  journal={Results of a decade of RAND work on veteran life},
+  year={2016}
+}
+
+@article{nataraj2014options,
+  title={Options for Department of Defense total workforce supply and demand analysis: potential approaches and available data sources},
+  author={Nataraj, Shanthi and Guo, Christopher and Hall-Partyka, Philip and Gates, Susan M and Yeung, Douglas},
+  year={2014},
+  publisher={Rand Corporation}
+}
+
+@article{guo2016ten,
+  title={Ten frequently asked questions about veterans' transitions: Results of a decade of RAND work on veteran life},
+  author={Guo, Christopher and Bauman, Melissa and Pollak, Julia},
+  year={2016},
+  publisher={RAND Corporation}
+}
+
+@book{bond2016tour,
+  title={Tour lengths, permanent changes of station, and alternatives for savings and improved stability},
+  author={Bond, Craig and Lewis, Jennifer Lamping and Leonard, Henry A and Pollak, Julia and Guo, Christopher and Rostker, Bernard D and others},
+  year={2016},
+  publisher={Rand Corporation}
+}
+
+@article{gross2015merit,
+  title={Merit pay and wage compression with productivity differences and uncertainty},
+  author={Gross, Till and Guo, Christopher and Charness, Gary},
+  journal={Journal of Economic Behavior \& Organization},
+  volume={117},
+  pages={233--247},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{guo2013value,
+  title={The value of adaption: Climate change and timberland management},
+  author={Guo, Christopher and Costello, Christopher},
+  journal={Journal of Environmental Economics and Management},
+  volume={65},
+  number={3},
+  pages={452--468},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@book{guo2012three,
+  title={Three Essays on Adaptation, Uncertainty, and Learning},
+  author={Guo, Christopher},
+  year={2012},
+  publisher={University of California, Santa Barbara}
+}
+
+@article{wu2001journal,
+  title={Journal of Environmental Economics and Management},
+  author={Wu, JunJie and Zilberman, David and Babcock, Bruce A},
+  year={2001}
+}
+
+@misc{curtright2016policy,
+  title={Policy Options for Better Service Outcomes from the Future Electric Grid: A Stakeholder Symposium},
+  author={Curtright, Aimee E and Guo, Christopher and Narayanan, Anu and Du Bois, Jacqueline and Loa, Kathleen},
+  year={2016},
+  publisher={RAND}
+}
+
+@article{guo2009value,
+  title={The value of adaptation on the extensive and intensive margin: an extension of the envelope theorem},
+  author={Guo, Christopher and Costello, Christopher},
+  journal={Work. Pap., Bren Sch. Environ. Sci. Manag., Univ. Calif., Santa Barbara},
+  year={2009}
+}
+
+@article{webb2014venture,
+  title={Venture capital and strategic investment for developing government mission capabilities},
+  author={Webb, Tim and Guo, Christopher and Lewis, Jennifer Lamping and Egel, Daniel},
+  year={2014},
+  publisher={Rand Corporation}
+}
+
+@article{guo2015tankering,
+  title={Tankering Fuel on US Air Force Transport Aircraft: An Assessment of Cost Savings},
+  author={Guo, Christopher and Hubert, Tanguy and Mouton, Christopher A and Powers, James D},
+  year={2015},
+  publisher={Rand Corporation}
+}
+
+@misc{guo2014gates,
+  title={Gates, Retention and Promotion of High-Quality Civil Service Workers in the Department of Defense Acquisition Workforce},
+  author={Guo, Christopher and Hall-Partyka, Philip and Susan, M},
+  year={2014},
+  publisher={Santa Monica, Calif.: RAND Corporation, RR-748-OSD}
+}
+
+@article{charnessmerit,
+  title={Merit Pay and Wage Compression with},
+  author={Charness, Gary and Gross, Till and Guo, Christopher}
+}
+
+@article{mills2018increasing,
+  title={Increasing Cost-Effective Readiness for the US Air Force by Reducing Supply Chain Variance},
+  author={Mills, Patrick and Nowak, Sarah A and Buryk, Peter and Drew, John G and Guo, Christopher and Vardavas, Raffaele},
+  journal={RAND National Defense Research Institute},
+  year={2018}
+}
+
+@article{natarajgates,
+  title={Gates, and Douglas Yeung},
+  author={Nataraj, Shanthi and Guo, Christopher and Hall-Partyka, Philip and Susan, M},
+  journal={Options for Department of Defense Total Workforce Supply and Demand Analysis: Potential Approaches and Available Data Sources}
+}
+
+@article{loa2016policy,
+  title={Policy Options for Better Service Outcomes from the Future Electric Grid: A Stakeholder Symposium},
+  author={Loa, Kathleen and Curtright, Aimee E and Narayanan, Anu and Guo, Christopher and Du Bois, Jacqueline},
+  year={2016},
+  publisher={RAND Corporation}
+}
+
+@article{guo2014options,
+  title={Options for Department of Defense Total Workforce Supply and Demand Analysis: Potential Approaches and Available Data Sources},
+  author={Guo, Christopher and Nataraj, Shanthi and Yeung, Douglas and Gates, Susan M and Hall-Partyka, Philip},
+  year={2014},
+  publisher={RAND Corporation}
+}
